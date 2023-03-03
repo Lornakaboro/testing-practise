@@ -1,0 +1,26 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lornakaboro/testing-practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lornakaboro/testing-practise/issues"
+  },
+  "homepage": "https://github.com/Lornakaboro/testing-practise#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "jest": "^29.4.3"
+  }
+}
